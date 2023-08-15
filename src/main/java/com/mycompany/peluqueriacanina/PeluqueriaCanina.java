@@ -7,6 +7,7 @@ public class PeluqueriaCanina {
     public static void main(String[] args) {
         
         //holaAA
+        //Gabi
         Principal princ = new Principal();
         princ.setVisible(true);
         princ.setLocationRelativeTo(null);
